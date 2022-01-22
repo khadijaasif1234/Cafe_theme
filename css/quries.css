@@ -1,0 +1,296 @@
+@media (max-width: 768px) {
+    .head-1{
+        font-size: 20px;
+        right: 127px;
+        position: absolute;
+        width: 100%;
+    }
+    .head-2{
+        font-size: 67px;
+        left: 11px;
+        position: absolute;
+    }
+    .head-btn{
+        position: absolute;
+        top: 212px;
+        left: 106px;
+        padding: 0px 18px;
+    }
+    .skills{
+        height: 281vh;
+    }
+    .skill-1{
+        width: 100%;    
+    }
+    .skill-2{
+        width: 100%;
+        position: absolute;
+        top: 344px;
+    }
+    .skill-3{
+        width: 100%;
+        top: 688px;
+        position: absolute;
+    }
+    .skill-4{
+        width: 100%;
+    }
+    .station{
+        height: 210vh;
+    }
+    .station1{
+        position: absolute;
+        top: 50px;
+        left: 120px;
+    }
+    .station2content{
+        position: absolute;
+        top: 300px;
+        left: -320px;
+    }
+    .btn-responce{
+        position: absolute;
+        top: 482px;
+        left: 0px;
+        padding: 0px 14px;
+    }
+    .products{
+        height: 190vh;
+
+    }
+    .station2content-1{
+        position: absolute;
+        top: -44px;
+        left: 11px;
+    }
+    .btn-responce-2{
+        position: absolute;
+        top: 357px;
+        left: 0px;
+    }
+    .crad1{
+        position: absolute;
+        top: -92px;
+        left: 21px;
+    }
+    .crad2{
+        position: absolute;
+        top: -92px;
+        left: 401px;
+    }
+    .crad3{
+        display: none;
+    }
+    .service{
+        height: 320vh;
+    }
+    .ser1{
+        position: absolute;
+        top: -759px;
+        width: 42%;
+        left: 27px
+    }
+    .ser2{
+        position: absolute;
+        top: -759px;
+        width: 42%;
+        left: 417px
+    }
+    .ser3{
+        position: absolute;
+        top: -159px;
+        width: 42%;
+        left: 227px
+    }
+    .section-form{
+        height: 38vh;
+    }
+    .content-1{
+        position: absolute;
+        top: 60px;
+    }
+    .content-2{
+        position: absolute;
+        top: 60px;
+        left: 420px;
+    }
+    .content-3{
+        position: absolute;
+        top: 210px;
+        left: 320px;
+    }
+    .skill1para{
+        position: absolute;
+        left: 185px;
+    }
+    .form{
+        position: absolute;
+        top: 310px;
+        left: 20px;
+    }
+    .btn-2{
+        position: absolute;
+        top:310px;
+        left: 20px;
+        padding-left: 10px;
+    }
+    .toggle-button{
+        position: absolute;
+        left: -30px;
+    }
+}
+@media (max-width: 480px) {
+    .head-1{
+        font-size: 20px;
+        right: 321px;
+        position: absolute;
+        width: 63%;
+    }
+    .head-2{
+        font-size: 55px;
+        left: -35px;
+        position: absolute;
+    }
+    .head-btn{
+        position: absolute;
+    top: 212px;
+    left: 64px;
+    padding: 0px 18px;
+    }
+    .skill1para{
+        position: absolute;
+        left: 52px;
+        font-size: 33px;
+    }
+    .skills{
+        height: 281vh;
+    }
+    .skill-1{
+        width: 100%;
+    }
+    .skill-2{
+        width: 100%;
+        position: absolute;
+        top: 344px;
+    }
+    .skill-3{
+        width: 100%;
+        top: 688px;
+        position: absolute;
+    }
+    .skill-4{
+        width: 100%;
+    }
+    .station{
+        height: 210vh;
+    }
+    .station1{
+        position: absolute;
+        top: 50px;
+        left: 28px;
+    }
+    .station2content{
+        position: absolute;
+        top: 300px;
+        left: -236px;
+    }
+    .btn-responce{
+        position: absolute;
+        top: 482px;
+        left: 0px;
+        padding: 0px 14px;
+    }
+    .products{
+        height: 274vh;
+
+    }
+    .product2para {
+        font-size: 26px;
+        width: 416px;
+    }    
+    .station2content-1{
+        position: absolute;
+        top: -44px;
+        left: -74px;
+    }
+    .btn-responce-2{
+        position: absolute;
+        top: 357px;
+        left: 0px;
+    }
+    .crad1{
+        position: absolute;
+        top: -476px;
+        left: 67px;
+    }
+    .crad2{
+        position: absolute;
+        top: -22px;
+        left: 58px;
+    }
+    .crad3{
+        display: none;
+    }
+    .service{
+        height: 357vh;
+    }
+    .ser1{
+        position: absolute;
+        top: -965px;
+        width: 56%;
+        left: 112px;
+    }
+    .ser2{
+        position: absolute;
+        top: -433px;
+        width: 55%;
+        left: 121px;
+    }
+    .ser3{
+        position: absolute;
+        top: 108px;
+        width: 53%;
+        left: 131px;
+    }
+    .section-form{
+        height: 38vh;
+    }
+    .content-1{
+        position: absolute;
+        top: 60px;
+    }
+    .content-2{
+        position: absolute;
+        top: 65px;
+        left: 287px;
+    }
+    .content-3{
+        position: absolute;
+        top: 154px;
+        left: 286px;
+    }
+    .form{
+        position: absolute;
+        top: 310px;
+        left: 20px;
+    }
+    .form--content--1 {
+        position: absolute;
+        top: -20px;
+        left: 0px;
+    }
+    .btn-2{
+        position: absolute;
+        top: 216px;
+        left: 20px;
+        padding-left: 0px;
+        width: 35%;
+    }
+    .form--1{
+        width: 176%;
+    }
+    .toggle-button{
+        position: absolute;
+        left: -30px;
+    }
+}
