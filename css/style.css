@@ -32,7 +32,7 @@ html {
 
  html[data-theme="dark"]{ 
 
-    --yellow: rgba(15, 15, 11, 0.7);
+    --yellow: rgba(241, 241, 65, 0.7);
     --black-opacity: rgba(32, 22, 22, 0.7);
     --white: rgba(226, 224, 224, 0.7);
     --wheat:rgba(245, 220, 175, 0.76);

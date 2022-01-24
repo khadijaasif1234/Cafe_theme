@@ -16,6 +16,9 @@
         left: 106px;
         padding: 0px 18px;
     }
+    #toggle{
+        margin-right: 119px;
+    }
     .skills{
         height: 281vh;
     }
@@ -58,6 +61,9 @@
         height: 190vh;
 
     }
+    .card1img {
+        width: 309px;
+    }
     .station2content-1{
         position: absolute;
         top: -44px;
@@ -87,14 +93,14 @@
     .ser1{
         position: absolute;
         top: -759px;
-        width: 42%;
-        left: 27px
+        width: 40%;
+        left: 22px;
     }
     .ser2{
         position: absolute;
         top: -759px;
-        width: 42%;
-        left: 417px
+        width: 40%;
+        left: 380px;
     }
     .ser3{
         position: absolute;
@@ -168,6 +174,9 @@
     .skill-1{
         width: 100%;
     }
+    #toggle{
+        margin-right: 109px;    
+    }
     .skill-2{
         width: 100%;
         position: absolute;
@@ -181,8 +190,12 @@
     .skill-4{
         width: 100%;
     }
+    #navbar{
+        width: 49%;
+        height: 126vh;
+    }
     .station{
-        height: 210vh;
+        height: 180vh;
     }
     .station1{
         position: absolute;
